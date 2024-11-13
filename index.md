@@ -5,4 +5,3 @@ Hello! I'm Balraj Ramalingam, a software architect focused on C++ for embedded d
 ## Sections
 - [Portfolio](portfolio.md)
 - [Blog](blog.md)
-- [About Me](about.md)
