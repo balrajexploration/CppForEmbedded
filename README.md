@@ -2,14 +2,14 @@
 
 ## 📑 Table of Contents
 
-1. [🚀 Motivation for Learning C++ in Embedded Systems](#1-motivation-for-learning-c-in-embedded-systems)
-2. [🌍 Where C++ is Used in the Real World](#2-where-c-is-used-in-the-real-world)
-3. [🧩 Exploring OOP Concepts with Real-World Examples](#3-exploring-oop-concepts-with-real-world-examples)
-4. [📚 Resources for Learning C++](#4-resources-for-learning-c)
-5. [📌 What You'll Find Here](#5-what-youll-find-here)
-6. [👥 Who This Is For](#6-who-this-is-for)
-7. [🚦 How to Get Started](#7-how-to-get-started)
-8. [🤝 Contributions](#8-contributions)
+1. [🚀 Motivation for Learning C++ in Embedded Systems](#1-🚀-motivation-for-learning-c-in-embedded-systems)
+2. [🌍 Where C++ is Used in the Real World](#2-🌍-where-c-is-used-in-the-real-world)
+3. [🧩 Exploring OOP Concepts with Real-World Examples](#3-🧩-exploring-oop-concepts-with-real-world-examples)
+4. [📚 Resources for Learning C++](#4-📚-resources-for-learning-c)
+5. [📌 What You'll Find Here](#5-📌-what-youll-find-here)
+6. [👥 Who This Is For](#6-👥-who-this-is-for)
+7. [🚦 How to Get Started](#7-🚦-how-to-get-started)
+8. [🤝 Contributions](#8-🤝-contributions)
 
 
 ## 1. 🚀 Motivation for Learning C++ in Embedded Systems
