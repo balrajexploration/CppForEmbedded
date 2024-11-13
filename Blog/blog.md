@@ -4,3 +4,4 @@ Welcome to my blog! Here, I document my journey and share insights on C++, Linux
 
 ## Blog Posts
 - [Hello World in C++](blog/hello-world.md)
+- [References and Pointers](blog/pointers_reference.md)
