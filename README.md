@@ -1,12 +1,24 @@
 # LearnCppDeeply
 
-## 🚀 Motivation for Learning C++ in Embedded Systems
+## 📑 Table of Contents
+
+1. [🚀 Motivation for Learning C++ in Embedded Systems](#1-🚀-motivation-for-learning-c-in-embedded-systems)
+2. [🌍 Where C++ is Used in the Real World](#2-🌍-where-c-is-used-in-the-real-world)
+3. [🧩 Exploring OOP Concepts with Real-World Examples](#3-🧩-exploring-oop-concepts-with-real-world-examples)
+4. [📚 Resources for Learning C++](#4-📚-resources-for-learning-c)
+5. [📌 What You'll Find Here](#5-📌-what-youll-find-here)
+6. [👥 Who This Is For](#6-👥-who-this-is-for)
+7. [🚦 How to Get Started](#7-🚦-how-to-get-started)
+8. [🤝 Contributions](#8-🤝-contributions)
+
+
+## 1. 🚀 Motivation for Learning C++ in Embedded Systems
 
 👨‍💻 As an embedded software architect, I have always worked extensively with C, understanding how source code is converted to machine code and how it runs on embedded low-level hardware. ✨ However, C++ offers many underlying mechanisms that I am eager to demystify, especially in the context of embedded systems. My motivation to learn C++ comes from the desire to understand its more advanced features, such as object-oriented programming (OOP), and how these features can be leveraged effectively in embedded environments.
 
 💡 C++ allows for a more sophisticated design by offering abstractions and features like OOP, templates, and RAII, which can help create scalable and maintainable systems. My goal is to bridge the gap between basic C programming and advanced C++ concepts, showing how C++ can be applied in real-world embedded projects. By documenting this journey, I hope to provide valuable insights for others who want to deepen their understanding of C++.
 
-## 🌍 Where C++ is Used in the Real World
+## 2. 🌍 Where C++ is Used in the Real World
 
 | 🛠️ Use Case                 | 📖 Description                                                                                                                                                                                                                                                            | 🔗 Example GitHub                                                                                                                                                  | 📝 Example .cpp File                                                                                                                                                                            |
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -19,11 +31,24 @@
 
 -
 
-### 🧩 Exploring OOP Concepts with Real-World Examples
+### 3. 🧩 Exploring OOP Concepts with Real-World Examples
 
 In this repository, I will explore OOP concepts with relatable, real-world examples. We'll discuss why these concepts evolved, how they solve particular problems, and how they can be applied effectively. For each concept, I'll provide practical applications, complete with example source code hosted on GitHub, to motivate C++ learners to explore these topics more deeply.
 
-### 📌 What You'll Find Here:
+### 4. 📚 Resources for Learning C++
+
+Below is a curated list of resources organized into websites, online courses, and YouTube channels to help you dive deep into learning C++:
+
+| Type               | Resource Description                                                                                                                                                 | Link                                                                                                                                                       |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🌐 **Websites**    | LearnCpp.com - A comprehensive website with tutorials on all C++ topics, from beginner to advanced.                                                                 | [LearnCpp.com](https://www.learncpp.com/)                                                                                                                  |
+|                    | GeeksforGeeks C++ - Articles, examples, and tutorials on different C++ concepts.                                                                                     | [GeeksforGeeks C++](https://www.geeksforgeeks.org/c-plus-plus/)                                                                                           |
+|                    | Codecademy - Offers interactive learning paths for C++.                                                                                                              | [Codecademy](https://www.codecademy.com/)                                                                                                                  |
+| 🎥 **YouTube**     | The Cherno YouTube Channel - A popular YouTube channel providing C++ tutorials and tips.                                                                             | [The Cherno YouTube Channel](https://www.youtube.com/c/TheCherno)                                                                                         |
+| 📘 **Courses**     | Udemy C++ Courses - Explore various courses on C++ offered by expert instructors.                                                                                    | [Udemy C++ Courses](https://www.udemy.com/)                                                                                                               |
+|                    | Coursera C++ for C Programmers - A great course for programmers transitioning from C to C++.                                                                         | [Coursera C++ for C Programmers](https://www.coursera.org/learn/c-plus-plus-a)                                                                            |
+
+### 5. 📌 What You'll Find Here
 
 - **📍 Learning Roadmap**: A step-by-step guide from beginner to advanced C++ concepts.
 - **📚 Blogs and Resources**: Easy-to-follow explanations to help demystify complex topics.
@@ -31,11 +56,11 @@ In this repository, I will explore OOP concepts with relatable, real-world examp
 - **💡 Topics with Use Cases**: Real-world applications of each concept to help you understand their purpose.
 - **💻 Example Source Code**: Practical examples for each chapter, complete with Makefiles for easy compilation and testing.
 
-### 👥 Who This Is For:
+### 6. 👥 Who This Is For
 
 This repository is ideal for beginners who are eager to learn C++ deeply. Additionally, this repository is particularly suited for those coming from an embedded background. My journey includes exploring C++ down to the assembly level and understanding the intricacies of compiler-generated code. As an architect, I also document real-world use cases to provide practical insights for learners.
 
-### 🚦 How to Get Started:
+### 7. 🚦 How to Get Started
 
 - Begin with the **📍 Learning Roadmap** to get an overview of the topics covered.
 - Dive into the **🔰 Basics** and gradually work your way to advanced topics.
@@ -43,7 +68,7 @@ This repository is ideal for beginners who are eager to learn C++ deeply. Additi
 
 Feel free to explore, learn, and contribute! Together, let's unlock the full potential of C++ programming, one concept at a time.
 
-### 🤝 Contributions:
+### 8. 🤝 Contributions
 
 Contributions are welcome! If you'd like to add content, improve examples, or share insights, please feel free to create a pull request. Let's make this learning journey enriching for everyone.
 
