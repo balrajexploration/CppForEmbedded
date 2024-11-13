@@ -17,7 +17,6 @@
 | 🏥 **Medical Devices**       | Safety-critical medical devices, such as patient monitoring systems and diagnostic machines, use C++ due to its strong type-checking, deterministic behavior, and support for real-time constraints.                                                                                          | [OpenEMR](https://github.com/openemr/openemr) - An open-source electronic medical record that includes components using C++ for performance-critical features. | [emr.cpp](https://github.com/openemr/openemr/blob/master/gacl/gacl.class.php) - Example file showcasing use of C++ in healthcare applications.                                                  |
 | ✈️ **Aerospace and Defense** | C++ is used in avionics systems, drones, and other defense applications where reliability, efficiency, and direct hardware access are critical. Features like RAII help manage resources effectively, which is important in constrained environments.                                         | [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot) - An open-source flight control solution for drones, developed in C++.                               | [FlightTask.cpp](https://github.com/PX4/PX4-Autopilot/blob/main/src/modules/flight_mode_manager/tasks/FlightTask.cpp) - An example of using C++ for flight control tasks in drones.             |
 
--
 
 ### 🧩 Exploring OOP Concepts with Real-World Examples
 
