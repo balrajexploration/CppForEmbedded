@@ -14,7 +14,7 @@
 
 ## 1. 🚀 Motivation for Learning C++ in Embedded Systems
 
-👨‍💻 As an embedded software architect, I have always worked extensively with C, understanding how source code is converted to machine code and how it runs on embedded low-level hardware. ✨ However, C++ offers many underlying mechanisms that I am eager to demystify, especially in the context of embedded systems. My motivation to learn C++ comes from the desire to understand its more advanced features, such as object-oriented programming (OOP), and how these features can be leveraged effectively in embedded environments.
+👨‍💻 As an embedded software developer, I have always worked extensively with C, understanding how source code is converted to machine code and how it runs on embedded low-level hardware. ✨ However, C++ offers many underlying mechanisms that I am eager to demystify, especially in the context of embedded systems. My motivation to learn C++ comes from the desire to understand its more advanced features, such as object-oriented programming (OOP), and how these features can be leveraged effectively in embedded environments.
 
 💡 C++ allows for a more sophisticated design by offering abstractions and features like OOP, templates, and RAII, which can help create scalable and maintainable systems. My goal is to bridge the gap between basic C programming and advanced C++ concepts, showing how C++ can be applied in real-world embedded projects. By documenting this journey, I hope to provide valuable insights for others who want to deepen their understanding of C++.
 
