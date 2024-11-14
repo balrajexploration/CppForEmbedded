@@ -1,4 +1,2 @@
-title: My Project Documentation
-theme: minima
 plugins:
   - jekyll-paginate
